@@ -1,3 +1,16 @@
+# Kiaka Statc Site
+When making a new static site setup the following  
+
+```
+Setup a Git Repo 
+git clone --bare git@github.com:KiakaStaticSites/hugo-forestry-starter.git
+git push --mirror git@github.com:KiakaStaticSites/{NAME}.git
+cd {NAME}
+git remote add fork git@github.com:KiakaStaticSites/hugo-forestry-starter.git
+```
+
+
+
 # hugo-forestry-starter
 Created from the fantastic [web-starter-hugo](https://github.com/adrinux/web-starter-hugo), this is a fully fleshed out starter website with a headless CMS and deployment provided by [Forestry](https://forestry.io) and continous integration by [CircleCI](https://circleci.com).
 
