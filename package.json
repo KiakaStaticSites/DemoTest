@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/dsschneidermann/hugo-forestry-starter#readme",
   "devDependencies": {
-    "ajv": "^5.5.1",
+    "ajv": "^6.12.3",
     "babel-core": "^6.26.0",
     "babel-polyfill": "^6.26.0",
     "babel-preset-env": "^1.6.1",
